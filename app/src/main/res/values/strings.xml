@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlStyleProgressDialog</string>
+    <string name="dialog_msg_request">数据请求中</string>
+</resources>
